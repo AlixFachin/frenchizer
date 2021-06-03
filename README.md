@@ -2,7 +2,7 @@
 
 ## A utility function to translate english into "french"
 
-![french stereotype](superDupont.jpg)
+![french stereotype](superDupont.JPG)
 
 This neat utility will enable to change your English sentence into French so that every person in Paris will understand what you mean.
 
