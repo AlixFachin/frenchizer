@@ -3,9 +3,10 @@
 ## A utility function to translate english into "french"
 
 
-<img src="superDupont.JPG" width="200">
+<img src="https://media.giphy.com/media/3o6MbsT5NgoQAUldPq/giphy.gif" width="400px">
 
-This neat utility will enable to change your English sentence into French so that every person in Paris will understand what you mean.
+This neat utility will enable to change your English sentence into French so that every person in Paris will understand what you mean. 
+*Please note*: This utility will however *not* make them listen to you, respect you or care about what you are trying to say.
 
 For example,
 ```
