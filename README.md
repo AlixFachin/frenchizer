@@ -1,5 +1,9 @@
 # frenchizer
 
+## Disclaimer
+This package was realized during a bootcamp at [Code Chrysalis](https://www.codechrysalis.io).
+The aim of this package is to code a very simple (and silly) function and learn how to publish a package to NPM with some CI/CD features.
+
 ## A utility function to translate english into "french"
 
 
